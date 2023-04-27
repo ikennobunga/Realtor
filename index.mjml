@@ -21,8 +21,8 @@
 
   <mj-body background-color="#f1f1f1">
     <mj-section>
-      <mj-column background-color="#000" width="240px">
-        <mj-image src="https://i.ibb.co/HG8y5yC/Adeles-Curly-Updo.png" alt="Female Model" width="140px" padding-top="20px"/>
+      <mj-column background-color="#000" width="200px">
+        <mj-image src="https://i.ibb.co/HG8y5yC/Adeles-Curly-Updo.png" alt="Female Model" width="130px" padding-top="20px"/>
       </mj-column>
       <mj-column>
         <mj-text font-weight="bold" font-size="24px" color="#5D77A9">
@@ -32,18 +32,17 @@
           Realtor, Skyhouse Realtors
         </mj-text>
         <mj-divider/>
-        <mj-text line-height="8px">
+        <mj-text line-height="8px" padding-top="0px">
           <p><span style="color: #5D77A9; font-weight: bold">T - </span> 777-444-555</p>
           <p><span style="color: #5D77A9; font-weight: bold">E - </span> megan@skyhouse.com</p>
           <p><span style="color: #5D77A9; font-weight: bold">A - </span> Liberty Lane CA 10204</p>
           <p><span style="color: #5D77A9; font-weight: bold">W - </span> <a href="#">www.skyhouse-realtors.com</a></p>
         </mj-text>
-        <mj-text padding-bottom="20px" align="left" padding-left="18px">
-          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-facebook.gif" alt="facebook" width="26px">
-          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-instagram.gif" alt="instagram" width="26px">
-          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-pinterest.gif" alt="pintrest" width="26px">
-          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-twitter.gif" alt="twitter" width="26px">
-
+        <mj-text align="left" padding-left="26px" padding-top="0px">
+          <img src="https://i.ibb.co/C0rHwRz/Facebook-blue.png" alt="facebook" width="10px" style="padding-right: 12px">
+          <img src="https://i.ibb.co/yRyGSmy/Instagram-blue.png" alt="instagram" width="21px" style="padding-right: 12px">
+          <img src="https://i.ibb.co/kX8dX7q/Pinterest-blue.png" alt="pintrest" width="16px" style="padding-right: 12px">
+          <img src="https://i.ibb.co/fYsdzKh/Twitter-blue.png" alt="twitter" width="20px" style="padding-right: 12px">
         </mj-text>
       </mj-column>
     </mj-section>
@@ -60,9 +59,9 @@
           </a>
         </mj-text>
         <mj-button background-color="#fff" border="2px solid #5D77A9" align="left" padding-bottom="60px" href="#"> 
-          <img src="https://i.ibb.co/j3P57Lh/camera2.png" alt="camera icon" width="20px"/>
+          <img src="https://i.ibb.co/q0SnLjC/video-camera.png" alt="camera icon" width="20px"/>
           <mj-text>
-            <span style="color: #444444; margin-left: 10px">let's Meetup On Zoom</span>
+            <span style="color:  #5D77A9; margin-left: 10px">let's Meetup On Zoom</span>
           </mj-text>
         </mj-button>
       </mj-column>
