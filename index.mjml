@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-title>Realtor</mj-title>
+    <mj-attributes>
+      <mj-text color="#444444"/>
+      <mj-section padding="0px" background-color="#fff"/>
+      <mj-image padding="0px"/>
+      <mj-divider border-width="1px"/>
+    </mj-attributes>
+
+    <mj-style>
+      a {
+        color: #444444;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #5D77A9;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+    <mj-section>
+      <mj-column background-color="#000" width="240px">
+        <mj-image src="https://i.ibb.co/HG8y5yC/Adeles-Curly-Updo.png" alt="Female Model" width="140px" padding-top="20px"/>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" font-size="24px" color="#5D77A9">
+          Megan Linda
+        </mj-text>
+        <mj-text line-height="2px">
+          Realtor, Skyhouse Realtors
+        </mj-text>
+        <mj-divider/>
+        <mj-text line-height="8px">
+          <p><span style="color: #5D77A9; font-weight: bold">T - </span> 777-444-555</p>
+          <p><span style="color: #5D77A9; font-weight: bold">E - </span> megan@skyhouse.com</p>
+          <p><span style="color: #5D77A9; font-weight: bold">A - </span> Liberty Lane CA 10204</p>
+          <p><span style="color: #5D77A9; font-weight: bold">W - </span> <a href="#">www.skyhouse-realtors.com</a></p>
+        </mj-text>
+        <mj-text padding-bottom="20px" align="left" padding-left="18px">
+          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-facebook.gif" alt="facebook" width="26px">
+          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-instagram.gif" alt="instagram" width="26px">
+          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-pinterest.gif" alt="pintrest" width="26px">
+          <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/promotional/2017/06-june/20170615_u_royale-b/images/share-twitter.gif" alt="twitter" width="26px">
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="10px">
+          <p>Take a 360° virtual tour of our best available properties</p>
+          <a href="#">
+            <img src="https://i.ibb.co/vPbfCDh/house5.jpg" alt="house" width="80px"/>
+            <img src="https://i.ibb.co/42791vy/house4.jpg" alt="house" width="80px"/>
+            <img src="https://i.ibb.co/tLJwSXC/house1.jpg" alt="house" width="80px"/>
+            <img src="https://i.ibb.co/xG54Hq0/house2.jpg" alt="house" width="80px"/>
+          </a>
+        </mj-text>
+        <mj-button background-color="#fff" border="2px solid #5D77A9" align="left" padding-bottom="60px" href="#"> 
+          <img src="https://i.ibb.co/j3P57Lh/camera2.png" alt="camera icon" width="20px"/>
+          <mj-text>
+            <span style="color: #444444; margin-left: 10px">let's Meetup On Zoom</span>
+          </mj-text>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
